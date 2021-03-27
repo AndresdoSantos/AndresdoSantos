@@ -16,5 +16,5 @@ Feel free to explore the repositories and see if anything can help you. Ok, so..
 ---
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresdoSantos&count_private=true&langs_count=8&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql" />
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresdoSantos&count_private=true&langs_count=8&layout=compact&theme=dark&hide=html,tsql,css,plpgsql" />
 </div>

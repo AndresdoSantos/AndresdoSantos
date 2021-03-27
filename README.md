@@ -1,5 +1,5 @@
-# Hi I'm Andres doSantos
-[![Linkedin Badge](https://img.shields.io/badge/-Andres%20doSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-dosantos/)](https://www.linkedin.com/in/andres-dosantos/) [![Gmail Badge](https://img.shields.io/badge/-andres.dosantosbritoamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andres.dosantosbritoamaral@gmail.com)](mailto:andres.dosantosbritoamaral@gmail.com) <br /> <br />
+# Hi I'm Andres doSantos 🖖
+
 ### Sobre Mim
 <p>
   Programador mobile e web (agora mais web) na <a href="https://github.com/Zaal-Tecnologia">Zaal</a>, que gosta de estudar qualquer coisa, até fora da área de programação, aluno da Rocketseat 💜 e de tutoriais no YT ❤️.

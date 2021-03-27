@@ -11,6 +11,10 @@ I like to work on these stacks 👇, but I like to study them all ... <br />
 I am currently a programmer at [@Zaal-Tecnologia](https://github.com/Zaal-Tecnologia) and I love what I do.
 Studying in your free time is also cool, especially those foreign tutorials.
 
-Feel free to explore the repositories and see if anything can help you.
+Feel free to explore the repositories and see if anything can help you. Ok, so...these are the languages I use the most, but I don't believe in that much. 🤔
 
 ---
+
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresdoSantos&count_private=true&langs_count=8&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql" />
+</div>

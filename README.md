@@ -1,5 +1,5 @@
-[![Twitter Badge](https://img.shields.io/twitter/andresdo_santos?color=%234fffff&label=%40andresdo_santos&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/andresdo_santos)
-[![LinkedIn Badge](https://img.shields.io/badge/follow/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-dosantos)
+[![Twitter Badge](https://img.shields.io/twitter/follow/andresdo_santos?color=%234fffff&label=%40andresdo_santos&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/andresdo_santos)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-dosantos)
 
 Hi, call me Andres 👋. I'm a Software Developer at Zaal Technology (remote position).
 
